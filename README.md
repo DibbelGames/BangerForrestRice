@@ -5,7 +5,7 @@
 Not finished yet!
 
 Color palette:
-#1F2629![colors](https://user-images.githubusercontent.com/53196457/178160869-b2e4e006-74ae-4f82-ae7f-18e18614ffc7.png)
+#1F2629
 #2C3639
 #3F4E4F
 #A27B5C
