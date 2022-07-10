@@ -5,8 +5,14 @@
 Not finished yet!
 
 Color palette:
-#1F2629
-#2C3639
-#3F4E4F
-#A27B5C
-#DCD7C9
+#1F2629,
+#2C3639,
+#3F4E4F,
+#A27B5C,
+#DCD7C9,
+
+
+
+
+Fonts:
+Roboto Mono & RobotoSlab
